@@ -152,7 +152,7 @@ $env:PATH+=";c:\var\lib\rancher\rke2\bin;c:\usr\local\bin"
 ```
 #### 4. Run the Installer
 ```powershell
-./install.ps1
+.\install.ps1
 ```
 
 #### 5. Start the Windows RKE2 Service
